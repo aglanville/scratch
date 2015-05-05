@@ -1,2 +1,2 @@
 # scratch
-tmp directory
+tmp directory used for testing
